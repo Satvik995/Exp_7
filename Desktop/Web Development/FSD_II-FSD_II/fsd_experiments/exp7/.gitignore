@@ -1,0 +1,34 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+.classpath
+.project
+.settings/
+bin/
+.idea/
+*.iml
+
+# Node
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.DS_Store
+
+# IDE specific
+*.swp
+*.swo
+*~
