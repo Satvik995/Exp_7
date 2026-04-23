@@ -9,9 +9,9 @@
     <relativePath/>
   </parent>
   <groupId>com.fsd</groupId>
-  <artifactId>exp7</artifactId>
+  <artifactId>Exp_7</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>exp7</name>
+  <name>Exp_7</name>
   <description>Experiment 7: Spring Security with JWT and RBAC</description>
   <developers>
     <developer>
